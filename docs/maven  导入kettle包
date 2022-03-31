@@ -1,0 +1,20 @@
+mvn install:install-file -DgroupId=org.pentaho -DartifactId=kettle-core -Dversion=8.3.0.0-371 -Dpackaging=jar -Dfile=F:\dev\workspace\kettle\kettle-core\lib\kettle-core-8.3.0.0-371.jar
+
+mvn install:install-file -DgroupId=org.pentaho -DartifactId=kettle-engine -Dversion=8.3.0.0-371 -Dpackaging=jar -Dfile=F:\dev\workspace\kettle\kettle-core\lib\kettle-engine-8.3.0.0-371.jar
+
+
+mvn install:install-file -DgroupId=org.pentaho -DartifactId=metastore -Dversion=8.3.0.0-371 -Dpackaging=jar -Dfile=F:\dev\workspace\kettle\kettle-core\lib\metastore-8.3.0.0-371.jar
+mvn install:install-file -DgroupId=org.pentaho -DartifactId=pentaho-vfs-browser -Dversion=8.3.0.0-371 -Dpackaging=jar -Dfile=F:\dev\workspace\kettle\kettle-core\lib\pentaho-vfs-browser-8.3.0.0-371.jar
+mvn install:install-file -DgroupId=org.pentaho -DartifactId=pdi-dataservice-client-plugin -Dversion=8.3.0.0-371 -Dpackaging=jar -Dfile=F:\dev\workspace\kettle\kettle-core\lib\pdi-dataservice-client-plugin-8.3.0.0-371.jar
+mvn install:install-file -DgroupId=org.pentaho -DartifactId=pentaho-mongo-utils -Dversion=8.3.0.0-371 -Dpackaging=jar -Dfile=F:\dev\workspace\kettle\kettle-core\lib\pentaho-mongo-utils-8.3.0.0-371.jar
+mvn install:install-file -DgroupId=org.pentaho -DartifactId=pentaho-mongodb-plugin -Dversion=8.3.0.0-371 -Dpackaging=jar -Dfile=F:\dev\workspace\kettle\kettle-core\lib\pentaho-mongodb-plugin-8.3.0.0-371.jar
+mvn install:install-file -DgroupId=org.pentaho -DartifactId=pdi-dataservice-client-plugin-api -Dversion=8.3.0.0-371 -Dpackaging=jar -Dfile=F:\dev\workspace\kettle\kettle-core\lib\pdi-dataservice-client-plugin-api-8.3.0.0-371.jar
+mvn install:install-file -DgroupId=org.pentaho -DartifactId=json -Dversion=8.3.0.0-371 -Dpackaging=jar -Dfile=F:\dev\workspace\kettle\kettle-core\lib\json-8.3.0.0-371.jar
+mvn install:install-file -DgroupId=org.pentaho -DartifactId=scannotation -Dversion=1.0.2 -Dpackaging=jar -Dfile=F:\dev\workspace\kettle\kettle-core\lib\scannotation-1.0.2.jar
+mvn install:install-file -DgroupId=org.pentaho -DartifactId=jsonpath -Dversion=1.0 -Dpackaging=jar -Dfile=F:\dev\workspace\kettle\kettle-core\lib\jsonpath-1.0.jar
+mvn install:install-file -DgroupId=org.pentaho -DartifactId=json-simple -Dversion=1.1 -Dpackaging=jar -Dfile=F:\dev\workspace\kettle\kettle-core\lib\json-simple-1.1.jar
+
+mvn install:install-file -DgroupId=org.pentaho -DartifactId=simple-jndi -Dversion=1.0.2 -Dpackaging=jar -Dfile=F:\dev\workspace\kettle\kettle-core\lib\simple-jndi-1.0.2.jar
+
+
+mvn install:install-file -DgroupId=javax.mail -DartifactId=mail -Dversion=1.6.1 -Dpackaging=jar -Dfile=F:\dev\workspace\kettle\kettle-core\lib\javax.mail-1.6.1.jar

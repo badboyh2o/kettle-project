@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.mozilla.javascript:com.springsource.org.mozilla.javascript:1.7.0.R2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mozilla/javascript/com.springsource.org.mozilla.javascript/1.7.0.R2/com.springsource.org.mozilla.javascript-1.7.0.R2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mozilla/javascript/com.springsource.org.mozilla.javascript/1.7.0.R2/com.springsource.org.mozilla.javascript-1.7.0.R2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mozilla/javascript/com.springsource.org.mozilla.javascript/1.7.0.R2/com.springsource.org.mozilla.javascript-1.7.0.R2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
